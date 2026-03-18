@@ -30,11 +30,13 @@ It demonstrates fundamental front-end development concepts such as layout design
 
 ### ✅ Expected Output
 
-(Add expected output image here)
+<img width="575" height="905" alt="image" src="https://github.com/user-attachments/assets/d55de7ca-f552-43e7-82c1-06a8e08ba66c" />
+
 
 ### ⚠️ Current Output
 
-(Add your actual output image here)
+<img width="810" height="1158" alt="image" src="https://github.com/user-attachments/assets/c17f5bea-149e-4aa0-ae96-3ca5e37493d5" />
+
 
 ---
 
