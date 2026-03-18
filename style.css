@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/todolistbg.png");
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    font-size: 50px;
+}
+
+.heading {
+    text-align: left;
+    font-size: 16px;
+}
+
+.sub-heading1 {
+    text-align: left;
+    font-size: 20px;
+}
+
+.last-line {
+    text-decoration: underline;
+}
+
+
+.button {
+    height: 35px;
+    width: 80px;
+    border-radius: 0px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: orange;
+}
